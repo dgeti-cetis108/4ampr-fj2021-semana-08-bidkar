@@ -1,0 +1,27 @@
+body {
+  font-family:Arial;
+  background-color:darkgray;
+}
+/*
+article {
+  border: 1px solid red;
+}
+article>header>h2 {
+  font-size:25pt;
+  color:tomato;
+}
+article>header>p {
+  text-transform:uppercase;
+}*/
+.nota {
+  border: 1px solid darkgreen;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.nota-autor {
+  text-transform:uppercase;
+}
+.nota-titulo {
+  font-size:18pt;
+  color:green;
+}
